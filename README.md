@@ -1,2 +1,2 @@
 # notes_learning
-This is my repo for keeping the notes so that not only me but also anyone could get this resources easily.
+This is my repository for keeping notes so that not only I but also others can access these resources easily.
